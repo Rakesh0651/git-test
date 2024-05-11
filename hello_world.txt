@@ -1,0 +1,3 @@
+# this is my first Odind Repo 
+hello odin 
+i will bea good dev 
